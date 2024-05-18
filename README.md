@@ -22,12 +22,4 @@ The primary goal of this project is to perform an insightful unsupervised cluste
 
 - **Visualizations:** Present the results through informative visualizations such as scatter plots, dendrograms, and heatmaps, making the findings more accessible and actionable.
 
-**Getting Started:**
-1. Ensure you have the necessary Python environment set up (version X.X.X).
-2. Clone this repository: `git clone https://github.com/your-username/customer-segmentation-grocery.git`
-3. Navigate to the project directory: `cd customer-segmentation-grocery`
-4. Install required dependencies: `pip install -r requirements.txt`
-5. Run the analysis script: `python customer_segmentation_analysis.py`
 
-**Contributions:**
-Contributions to this project are encouraged and appreciated. If you have ideas to improve the analysis, expand the techniques, or enhance the documentation, feel free to fork the repository and submit pull requests.
